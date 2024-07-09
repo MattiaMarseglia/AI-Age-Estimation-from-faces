@@ -9,7 +9,7 @@ few samples for the external ages, reproducing a tailed distribution.
 
 ## Developed System
 <div align="center">
-  <img src="utils/complete_architecture.jpg" alt="Architecture of the developed system.">
+  <img src="/utils/Complete_architecture.jpg" alt="Architecture of the developed system.">
 </div>
 The developed system has been designed being aware of the complexity of the task to be carried out and of the problems that would arise from the distribution of the dataset, with the aim of realising a performing product that would not require excessive
 resources and above all that would guarantee the explainability property of the architecture. For all these reasons, the designed architecture is made of different **weak learners**,
