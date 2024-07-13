@@ -1,5 +1,9 @@
 # Artificial Vision Project: Age Estimation from faces
 
+<div align='center'>
+  <img src="AgeEstimation.png" alt="Age Estimation">
+</div>
+
 ## Overview
 Estimating the age from faces is a very challenging task as there are numerous aspects that can influence this choice such as ethnicity or gender. Moreover, the faces of people of the same age may have a very different appearance due to the characteristics of the person represented because of the uncontrolled ageing process or due to image’s characteristics such as pose, lighting or quality. Likewise automatic age estimation from face images has numerous practical
 applications such as demographic statistic collection, customer profiling, assistance of biometrics, etc.
