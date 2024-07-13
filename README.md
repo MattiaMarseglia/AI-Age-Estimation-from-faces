@@ -1,4 +1,4 @@
-# Artificial Vision Project: Age Estimation from faces
+# Artificial Vision Project: Age Estimation from faces (PyTorch)
 
 <div align='center'>
   <img src="AgeEstimation.png" alt="Age Estimation" style="width:50%; max-width:400px;">
